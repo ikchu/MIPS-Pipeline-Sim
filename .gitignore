@@ -1,0 +1,9 @@
+*.pdf
+*.tar.gz
+
+# *.out
+
+*.elf
+*.bin
+
+.vscode/
